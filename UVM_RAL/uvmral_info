@@ -1,0 +1,4 @@
+Minimum requirements to use UVM_RAL
+1. Atleast single register /memory should exist in DUT.
+2. Register have atleast single field.
+3. Registers are address mapped.
