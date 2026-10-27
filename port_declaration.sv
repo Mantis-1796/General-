@@ -22,4 +22,5 @@ NOTE:
   2. Wire need not be explicitly defined for inputs.
   3. TYPE : 3 is old style (Pre -2001 verilog).
   4. Instead of reg/wire SV supports using logic keyword
-  
+  5. Type 3 is also called Non-ANSI style port declaration.
+  6. Type1,2 are ANSI style port declaration.
